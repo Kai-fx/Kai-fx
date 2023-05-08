@@ -1,10 +1,10 @@
 ### Hello I'm Marcus <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px">
 
-![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
+
 
 ![profile count](https://komarev.com/ghpvc/?username=Marcus-FX&color=red)&nbsp;
 
-[![GitHub Marcus-FX](https://img.shields.io/github/followers/AndaleFx?label=follow&style=social)](https://github.com/Marcus-FX)&nbsp;
+[![GitHub Marcus-FX](https://img.shields.io/github/followers/Marcus-FX?label=follow&style=social)](https://github.com/Marcus-FX)&nbsp;
 
 
 
