@@ -4,20 +4,20 @@
 
 ![profile count](https://komarev.com/ghpvc/?username=Marcus-FX&color=red)&nbsp;
 
-[![GitHub Marcus-FX](https://img.shields.io/github/followers/Marcus-FX?label=follow&style=social)](https://github.com/Marcus-FX)&nbsp;
+[![GitHub Kai-FX](https://img.shields.io/github/followers/Kai-FX?label=follow&style=social)](https://github.com/Kai-FX)&nbsp;
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Marcus-FX" alt="Marcus-FX" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kai-FX" alt="Kai-FX" /></a> </p>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1097766515530543136?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/1097766515530543136)
 
 ## Kullandığım şeyler:
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcus-FX&show_icons=true&theme=dark&locale=en&layout=compact" alt="Marcus-FX" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kai-FX&show_icons=true&theme=dark&locale=en&layout=compact" alt="Kai-FX" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Marcus-FX&show_icons=true&theme=dark&locale=en" alt="Marcus-FX" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Marcus-FX&show_icons=true&theme=dark&locale=en" alt="Kai-FX" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-FX&theme=dark" alt="Marcus-FX" /></p>
 
