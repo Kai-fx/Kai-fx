@@ -17,9 +17,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kai-FX&show_icons=true&theme=dark&locale=en&layout=compact" alt="Kai-FX" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Marcus-FX&show_icons=true&theme=dark&locale=en" alt="Kai-FX" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kai-FX&show_icons=true&theme=dark&locale=en" alt="Kai-FX" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-FX&theme=dark" alt="Marcus-FX" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kai-FX&theme=dark" alt="Kai-FX" /></p>
 
 </br>
   
