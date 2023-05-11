@@ -1,4 +1,4 @@
-### Hello I'm Marcus <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px">
+### Hello I'm Kai <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px">
 
 
 
@@ -22,6 +22,5 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcus-FX&theme=dark" alt="Marcus-FX" /></p>
 
 </br>
-
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ccodzyfd7fmuwfzxc3hrouei74&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
+  
 
