@@ -12,14 +12,6 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1097766515530543136?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/1097766515530543136)
 
-## Kullandığım şeyler:
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kai-FX&show_icons=true&theme=dark&locale=en&layout=compact" alt="Kai-FX" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kai-FX&show_icons=true&theme=dark&locale=en" alt="Kai-FX" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kai-FX&theme=dark" alt="Kai-FX" /></p>
 
 </br>
   
